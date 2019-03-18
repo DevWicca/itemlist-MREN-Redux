@@ -1,0 +1,4 @@
+{
+    "mangoURI":"mongodb://itemlist:qwe123@ds263295.mlab.com:63295/itemlist",
+    "jwtSecret":"mySecret"
+}
