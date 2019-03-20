@@ -24,7 +24,7 @@ app.use(express.json())
 // Routes
 app.use('/api/items',ItemRoutes)
 app.use('/api/user',UsersRoutes)
-app.use('/api/Auth',AuthRoutes)
+app.use('/api/auth',AuthRoutes)
 
 
 
